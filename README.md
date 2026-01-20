@@ -1,2 +1,1 @@
-# MinecraftBedrockEditionSDK
-Every sig, offset, and VTable index I find for MCBE.
+im too slow pls help offset im too homeless

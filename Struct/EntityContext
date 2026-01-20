@@ -1,0 +1,4 @@
+[0x0] ::EnableGetWeakRef< ::EntityContext>
+[0x0] ::EntityRegistry &    mRegistry
+[0x8] ::entt::basic_registry< ::EntityId> &    mEnTTRegistry
+[0x10] const ::EntityId    mEntity

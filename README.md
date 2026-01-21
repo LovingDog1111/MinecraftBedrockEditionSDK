@@ -1,1 +1,1 @@
-im too slow pls help offset im too homeless
+if you want to help just like fork or smth idk
